@@ -1,11 +1,11 @@
 # 100DaysOfCode - 2019
 A journal of my #100DaysOfCode
 
-Day 1 - 10.04 -> Scala code su Hepek
+Day 1 - 10.04 -> Scala code on Hepek
 
-Day 2 - 11.04 -> Definizione componente Card su Bulma Hepek
+Day 2 - 11.04 -> Start to port Bulma components on Hepek
 
-Day 3 - 12.04 -> Components Bulma, ottimizzazione functional del folding delle Option
+Day 3 - 12.04 -> Bulma Components in Hepek, source code optimization in a more functional way
 
 Day 4 - 13.04 -> Voxxed Milano
 
@@ -17,21 +17,25 @@ Day 7 - 16.04 -> Realizzazione di altri componenti di Bulma su Hepek
 
 Day 8 - 17.04 -> Webinar di Kelvin Henney su Architecture Uncertainty; setup di Metals (progetto molto interessante, ma mancano ancora un po' di cosette); ultimo componente bulma in corso di implementazione su Hepek; lettura di Cake Pattern di Bonér
 
-Day 9 - 18.04 -> Reading of first two chapters of "sbt in Action".
+Day 9 - 18.04 -> Sbt in action, read chapters 1 and 2.
 
 Day 10 - 19.04 -> Completed the Hepek support for Bulma.
 
 Day 11 - 20.04 -> Added few Selenium tests to Hepek in order to verify the proper rendering of Bulma components.
 
-Day 12 - 21.04 -> 
-Day 13 - 22.04 -> 
-Day 14 - 23.04 -> 
-Day 15 - 24.04 -> 
-Day 16 - 25.04 -> 
-Day 17 - 26.04 -> 
-Day 18 - 27.04 -> 
-Day 19 - 28.04 -> 
-Day 20 - 29.04 -> 
+Day 12 - 21.04 -> Thinking with types, read chapter 4
+
+Day 13 - 22.04 -> Thinking with types, read chapter 5
+
+Day 14 - 23.04 -> Sbt in action, read chapters 3, 4
+
+Day 15 - 24.04 -> Sbt in action, read chapters 5, 6, 7
+
+Day 16 - 25.04 -> Built a g8 template for Hepek
+Day 17 - 26.04 -> Sbt in action, read chapter 8
+Day 18 - 27.04 -> Sbt in action, read chapter 9 and 10
+Day 19 - 28.04 -> Sbt in action, read chapters 11 and 12 - Book done
+Day 20 - 29.04 -> Answering to some questions on Stack Overflow
 Day 21 - 30.04 -> 
 Day 22 - 01.05 -> 
 Day 23 - 02.05 -> 
